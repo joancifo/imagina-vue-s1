@@ -1,29 +1,13 @@
-# formacio01
+# Proyecto en directo - Imagina
 
-This template should help get you started developing with Vue 3 in Vite.
+¡Bienvenido al código más desordenado que verás hoy! 😄 Este proyecto es para mis alumnos en **Imagina**, donde hacemos el código en **directo** durante las clases. Lo que significa que probablemente encontrarás errores, malas prácticas, y alguna que otra sorpresa. 🚧
 
-## Recommended IDE Setup
+### Aviso importante:
+- **Este código no ha sido revisado** después de la clase, así que toma todo con calma.
+- Si ves algo raro... es normal. Estamos aquí para aprender juntos, no para ser perfectos.
+- Si encuentras algún error grave o tienes alguna mejora, ¡siéntete libre de hacer un PR o abrir una issue!
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### ¿Por qué este caos?
+Porque **hacemos el código en tiempo real** y resolver problemas sobre la marcha es parte del aprendizaje. La idea es que veas cómo enfrentamos los problemas, cómo nos equivocamos y cómo lo arreglamos... o no. 🤷‍♂️
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+¡Gracias por pasarte! 🎉
